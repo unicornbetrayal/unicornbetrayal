@@ -2,7 +2,10 @@ I use https://scratch.mit.edu
 
 unicornbetrayal#7888
 
-![Alt Text](https://i.imgur.com/URCYlRw.gif)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=unicornbetrayal)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img src="https://i.imgur.com/URCYlRw.gif" width="40" height="40" />
 
 
 <!--
