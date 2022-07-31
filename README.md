@@ -1,4 +1,6 @@
 <img src="https://i.imgur.com/URCYlRw.gif" width="40" height="40" />
+[![unicornbetrayal's GitHub stats](https://github-readme-stats.vercel.app/api?username=unicornbetrayal)](https://github.com/unicornbetrayal/github-readme-stats)
+
 
 
 <!--
