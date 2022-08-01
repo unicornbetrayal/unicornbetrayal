@@ -1,5 +1,8 @@
 <img src="https://i.imgur.com/URCYlRw.gif" width="40" height="40" />
 
+My languages:
+[![My Skills](https://skillicons.dev/icons?i=py,ts)](https://skillicons.dev)
+
 <!--
 **unicornbetrayal/unicornbetrayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
